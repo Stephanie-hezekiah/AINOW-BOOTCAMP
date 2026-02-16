@@ -27,6 +27,9 @@ The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, 
 
 ### Tools Used
 ---
+**Power BI:** Data Modeling, DAX (Time Intelligence), and Visualization.
+**Excel/LibreOffice:** Initial data exploration and cleaning.
+**DAX:** For custom measures (YTD, QTD, YoY Variance).
 Microsoft Excel
 
 -Powerbi Query
