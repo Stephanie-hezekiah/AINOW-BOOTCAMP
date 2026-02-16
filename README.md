@@ -3,6 +3,8 @@ Advanced Data Analysis Excel Project
 
 ### PROJECT TITLE: Data Cleaning, Analysis, Querying and Visualization using Microsoft Excel and PowerBI Query
 
+[Status](https://img.shields.io/badge/Status-Complete-success)
+
 [Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
