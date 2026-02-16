@@ -30,9 +30,11 @@ Key Objectives:
 
 •	Identify high-performing Sales Representatives and Regional Trends.
 
+
 ### Data Sources
 ---
 The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, data was gotten from site such as kaggle
+
 
 ### Tools Used
 ---
@@ -41,6 +43,7 @@ Power BI: Data Modeling, DAX (Time Intelligence), and Visualization.
 Excel Office: Initial data exploration and cleaning.
 
 DAX: For custom measures (YTD, QTD, YoY Variance).
+
 
 ### Data Cleaning & Transformation
 
@@ -86,6 +89,7 @@ I implemented a Star Schema to optimize performance and simplify the DAX calcula
 
 •	Dimension Tables: Calendar_Table, Product_Category, and Region_Zones.
 
+
 ### Data Virtualization
 
 The final stage of this project involved creating an interactive Power BI Dashboard designed to provide executive-level insights at a glance.
@@ -120,6 +124,7 @@ Visual Insights Derived
 •	Strategic Gap: The dashboard clearly visualized that while Computers have high value, Mobile devices drive store traffic (highest Units Sold).
 
 •	Performance Tracking: By using YoY Growth indicators, I highlighted that the West Region isn't just the biggest, but also the fastest-growing.
+
 
 ### Exploratory Data Analysis
 
@@ -168,6 +173,7 @@ During the Exploratory Data Analysis phase in Excel, I utilized:
 •	Scatter Plots to validate the correlation between Sales and Profit, confirming a standardized 20% margin across all categories.
 
 •	Pivot Tables to identify the West Region as the primary revenue driver before moving to Power BI for advanced modelling
+
 
 ### Contact
 
